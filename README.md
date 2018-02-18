@@ -12,15 +12,17 @@ Alunos dos três anos do Ensino Médio do CIEP 305 Heitor dos Prazeres, alocados
 
 ## Conteúdo Programático
 Após processo de seleção e formação da turma, terão inicio as atividades onde serão abordados os seguintes temas:
-Introdução e apresentação do mercado | 2 horas 
-Introdução à Lógica de Programação | 2 horas
-Lógica Aplicada | 4 horas
-HTML5 | 4 horas
-CSS3 | 4 horas
-JavaScript | 4 horas
-Framework (Bootstrap) | 4 horas
+Ementa do Curso                              | Carga Horária
+---------------------------------------------|--------
+Introdução e apresentação do mercado         | 2 horas 
+Introdução à Lógica de Programação           | 2 horas
+Lógica Aplicada                              | 4 horas
+HTML5                                        | 4 horas
+CSS3                                         | 4 horas
+JavaScript                                   | 4 horas
+Framework (Bootstrap)                        | 4 horas
 Gestão de Equipes e Técnicas de Prototipagem | 2 horas
-Elaboração de Projeto Final | 8 horas
+Elaboração de Projeto Final                  | 8 horas
 
 ## Método
 Os conteúdos serão ministrados no laboratório de informática, apresentando aos alunos conhecimento necessário para ingressar no mercado de Tecnologia da Informação. Através de aulas expositivas e apresentação de situações práticas, o aluno poderá desenvolver habilidades de trabalho em equipe e raciocínio lógico, utilizando as principais ferramentas Open Source exigidas pelo mercado.
