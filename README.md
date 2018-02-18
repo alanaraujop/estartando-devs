@@ -12,6 +12,7 @@ Alunos dos três anos do Ensino Médio do CIEP 305 Heitor dos Prazeres, alocados
 
 ## Conteúdo Programático
 Após processo de seleção e formação da turma, terão inicio as atividades onde serão abordados os seguintes temas:
+
 Ementa do Curso                              | Carga Horária
 ---------------------------------------------|--------
 Introdução e apresentação do mercado         | 2 horas 
