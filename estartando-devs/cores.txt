@@ -1,0 +1,4 @@
+#81caa8 = verde
+#606062 = cinza
+#ffffff = branco
+#fc6621 = laranja
