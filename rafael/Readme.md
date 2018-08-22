@@ -24,6 +24,7 @@ Web Storage;(not alura);
   
 GIT:  
 {  
+Básico de terminal  
 Iniciar um repositório com git init  
 baixar um repositório com git clone  
 diff, log, stash, add, commit, push, pull, status, reset  
