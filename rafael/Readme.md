@@ -1,13 +1,13 @@
 12 semanas de  aulas;  
 4 semanas de projetos;  
-
+  
 git; 1 ( já iniciando javascript);  
 javascript; 3  
 jquery; 1  
 padrões CSS(BEM, OCSS, SMACSS); 1  
 npm, sass(node-sass); 2  
 angular; 3  
-
+  
 Javascript:  
 Alura(Avaliando):  
 {  
@@ -20,4 +20,11 @@ Remoção, Delegação e Animação;
 Filtrando uma tabela;  
 Buscando pacientes com AJAX;  
 Web Storage;(not alura);  
+}  
+  
+GIT:  
+{  
+Iniciar um repositório com git init  
+baixar um repositório com git clone  
+diff, log, stash, add, commit, push, pull, status, reset  
 }  
