@@ -1,22 +1,23 @@
 12 semanas de  aulas;  
 4 semanas de projetos;  
   
-git; 1 ( j· iniciando javascript);  
+git; 1 ( j√° iniciando javascript);  
 javascript; 3  
 jquery; 1  
-padrıes CSS(BEM, OCSS, SMACSS); 1  
+padr√µes CSS(BEM, OCSS, SMACSS); 1  
 npm, sass(node-sass); 2  
 angular; 3  
   
 Javascript:  
 Alura(Avaliando):  
 {  
-Vari·veis e Operadores;  
+Aulas: Rocketseat  
+Vari√°veis e Operadores;  
 Arrays, Loop e Estilos;  
-Eventos, Formul·rios e Criando Elementos;  
-Boas Pr·ticas com Javascript;  
-ValidaÁ„o de Formul·rios;  
-RemoÁ„o, DelegaÁ„o e AnimaÁ„o;  
+Eventos, Formul√°rios e Criando Elementos;  
+Boas Pr√°ticas com Javascript;  
+Valida√ß√£o de Formul√°rios;  
+Remo√ß√£o, Delega√ß√£o e Anima√ß√£o;  
 Filtrando uma tabela;  
 Buscando pacientes com AJAX;  
 Web Storage;(not alura);  
@@ -24,9 +25,20 @@ Web Storage;(not alura);
   
 GIT:  
 {  
-B·sico de terminal  
-Iniciar um repositÛrio com git init  
-baixar um repositÛrio com git clone  
-diff, log, stash, add, commit, push, pull, status, reset  
-.gitignore  
+B√°sico de terminal: cd, dir(ls), tab  
+Iniciar um reposit√≥rio com git init  
+baixar um reposit√≥rio com git clone  
+diff - exibe as diferen√ßas do arquivo atual e a ultima vers√£o que voc√™ baixou  
+log - motra uma lista com as vers√µes do reposit√≥rio  
+stash - salva o staged do trabalho (Ideal para fazer o merge com reposit√≥rio remoto)  
+add - salva altera√ß√µes no staged(sala de espera)  
+commit - cria a vers√£o do trabalho no reposit√≥rio local  
+push - envia os commits para o reposit√≥rio remoto  
+pull - faz download do reposit√≥rio remoto  
+status - verifica o status do que foi feito  
+reset - reseta um commit local  
+merge - mescla(junta) dois arquivo, soft merge e normal merge  
+branch - lista as branchs dispon√≠veis  
+checkout - muda para alguma branch  
+.gitignore - arquivo para ignorar arquivos  
 }  
