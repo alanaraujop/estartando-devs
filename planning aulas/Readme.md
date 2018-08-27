@@ -11,7 +11,7 @@ angular; 3
 # Tasks:  
 
 ## Git:  
-- [ ] melhor slide;
+- [ ] melhorar slide;
 
 ## Javascript:  
 escrever o roteiro das aulas;  
