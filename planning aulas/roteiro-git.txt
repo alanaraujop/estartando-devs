@@ -1,6 +1,6 @@
 GIT:  
 {  
-Básico de terminal: cd, ls, tab, pwd  
+Básico de terminal: cd, ls, tab, pwd, clear  
 baixar um repositório com git clone  
 status - verifica o status do que foi feito  
 add - salva alterações no staged(sala de espera)  
