@@ -1,0 +1,13 @@
+GIT:  
+{  
+Básico de terminal: cd, ls, tab, pwd  
+baixar um repositório com git clone  
+status - verifica o status do que foi feito  
+add - salva alterações no staged(sala de espera)  
+commit - cria a versão do trabalho no repositório local  
+push - envia os commits para o repositório remoto  
+stash - salva o staged do trabalho (Ideal para fazer o merge com repositório remoto)  
+pull - faz download do repositório remoto  
+.gitignore - arquivo para ignorar arquivos  
+Adicionar contribuidor para trabalhar em equipe  
+}  

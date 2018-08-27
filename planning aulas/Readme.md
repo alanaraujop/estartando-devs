@@ -7,37 +7,10 @@ jquery; 1
 padrões CSS(BEM, OCSS, SMACSS); 1  
 npm, sass(node-sass); 2  
 angular; 3  
-  
-Javascript:  
-Roteiro Alura:  
-{  
-Variáveis e Operadores;  
-Arrays, Loop e Estilos;  
-Eventos, Formulários e Criando Elementos;  
-Boas Práticas com Javascript;  
-Validação de Formulários;  
-Remoção, Delegação e Animação;  
-Filtrando uma tabela;  
-Buscando pacientes com AJAX;  
-Web Storage;(not alura);  
-}  
-  
-GIT:  
-{  
-Básico de terminal: cd, ls, tab  
-baixar um repositório com git clone  
-stash - salva o staged do trabalho (Ideal para fazer o merge com repositório remoto)  
-add - salva alterações no staged(sala de espera)  
-commit - cria a versão do trabalho no repositório local  
-push - envia os commits para o repositório remoto  
-pull - faz download do repositório remoto  
-status - verifica o status do que foi feito  
-.gitignore - arquivo para ignorar arquivos  
-}  
 
-SASS:  
-{  
-Revisar FLEX;  
-Animações  
-Conteudo Sass(preparar o que vai ser feito....)  
-}
+# Tasks:  
+## Javascript:  
+escrever o roteiro das aulas;  
+- [ ] documentar aula 01;  
+- [ ] documentar aula 02;  
+- [ ] documentar aula 03;  
