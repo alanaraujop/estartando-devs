@@ -15,6 +15,6 @@ angular; 3
 
 ## Javascript:  
 escrever o roteiro das aulas;  
-- [ ] documentar aula 01;  
+- [x] documentar aula 01;  
 - [ ] documentar aula 02;  
 - [ ] documentar aula 03;  
