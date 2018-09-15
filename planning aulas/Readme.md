@@ -4,14 +4,14 @@
 git; 1 (já iniciando javascript);  
 javascript; 3  
 jquery; 1  
-padrões CSS(BEM, OCSS, SMACSS); 1  
-npm, sass(node-sass); 2  
-angular; 3  
+padrões CSS(BEM, OCSS, SMACSS); 1 - passar conteudo para casa  
+npm, sass(node-sass); 1 - passar conteudo para casa  
+angular; 4  
 
 # Tasks:  
 
 ## Git:  
-- [x] melhorar slide;
+- [x] melhorar slide;  
 
 ## Javascript:  
 escrever o roteiro das aulas;  
